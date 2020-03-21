@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("天\n下\n一\n品\n");
+    printf("天\n下\n一\nッ\nッ\nッ\n品\n!\n");
     return 0;
 }
