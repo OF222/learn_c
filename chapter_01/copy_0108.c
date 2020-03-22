@@ -3,7 +3,9 @@
 
 int main(void)
 {
-    int n = 55, m = n + 199;
+    int n, m;
+
+
 
     printf("nの値は%dです。\n", n);
     printf("mの値は%dです。\n", m);
